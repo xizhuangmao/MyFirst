@@ -9,6 +9,12 @@
 
 2    修改、添加、提交
 2.1  修改                vi  file名称
-2.2  查看仓库当前状态    git statue 
+2.2  查看仓库当前状态    git status 
 2.3  查看difference      git diff file名称  显示格式正是Unix通用的diff格式
 2.4  添加，提交同上
+
+3    版本回退
+3.1  显示提交日志        git log --pretty=oneline
+
+ 
+
